@@ -26,7 +26,7 @@
     "i18next": "^11.9.0",
     "lunr": "^2.3.3",
     "popper.js": "^1.14.4",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.24.0",
     "prop-types": "^15.6.2",
     "react": "~16.4.2",
     "react-cookie": "^3.0.4",
